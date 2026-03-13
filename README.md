@@ -6,7 +6,7 @@ Ekaterina Antipushina, Nikita Davydov, Riccardo De Feo, Evgeny Prilepin, Artem N
 
 Skoltech, Samara University
 
-📄 [Paper](link-to-paper) | 🖥️ [Project page](http://opennft.org/)
+📄 [Paper](https://doi.org/10.1007/978-3-032-05162-2_55) | 🖥️ [Project page](http://opennft.org/)
 
 ---
 
@@ -16,7 +16,7 @@ Skoltech, Samara University
 
 1. Clone project from GitHub
    ```bash
-   git clone https://github.com/[your-repo]/pyOpenNFT.git
+   git clone https://github.com/OpenNFT/pyOpenNFT.git
    cd pyOpenNFT
    ```
 
